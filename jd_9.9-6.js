@@ -1,3 +1,7 @@
+/*
+cron 58 59 9 * * *
+*/
+
 const $ = new Env('抢极速版全品卷');
 const moment = require('moment');
 //进容器安装依赖： npm install -g moment
